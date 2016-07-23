@@ -1,6 +1,7 @@
 # UTF_8_Bom2UTF_8
-File Conversion
-This Program simply reads UTF-8-BOM file and rewrites the same file source to UTF-8
+This Prgrom simply rewrites file contents to UTF-8 Format.
 
-Make sure you have a backup copy!
+Remember! The Program reads UTF-8-BOM file and rewrites the same file source to UTF-8
+
+Make sure you have a BACKUP copy!
 
